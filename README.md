@@ -1,6 +1,8 @@
 # MachineLearning_Algorithms_ParthGupta
 # Python scripts implementing five machine learning algorithms
 
+LINK TO GITHUB REPOSITORY: https://github.com/Parth-Gupta-18/MachineLearning_Algorithms_ParthGupta
+
 Script 1: 1_logistic_regression_parth_gupta.py	
 
 => Algorithm: Logistic Regression	
