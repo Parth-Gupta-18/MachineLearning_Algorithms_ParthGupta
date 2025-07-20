@@ -1,0 +1,2 @@
+# MachineLearning_Algorithms_ParthGupta
+Python scripts implementing five machine learning algorithms
